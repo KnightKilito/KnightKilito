@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+Yeah! A lazy dog! That's me!
 <!--
 **KnightKilito/KnightKilito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on a final project training ...
+    I feel a little tired...
+🌱 I’m currently learning Java and algorithm
+    I feel even more tired T^T
+🤔 I’m looking for help with a guy who can learn Java with me together
+    Learning alone makes me feel lonely...This sounds like nonsense XD
+Well, again, that's me:
 [![Kilito's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
+A vegetable chicken~
