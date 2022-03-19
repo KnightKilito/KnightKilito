@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     
 Well, again, that's me:
 
-[Kilito's Status](https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h)
+[!Kilito's Count](https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h)
 
 [![Kilito's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
