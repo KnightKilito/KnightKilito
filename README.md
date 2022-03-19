@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Yeah! A lazy dog! That's me!
+![Kilito's Count](https://count.getloli.com/get/@KnightKilito?theme=asoul)
 <!--
 **KnightKilito/KnightKilito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
