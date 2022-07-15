@@ -40,12 +40,5 @@ A vegetable chicken~
 
 Oh, I'm a big fan of Swart Art Online...
 
-So maybe we can watch animations together...
+So maybe we can watch animations together...😍
 
-Recently I'm waiting for からかい上手の高木さん...
-
-And of course!
-
-![刀剑神域 进击篇：无星之夜的咏叹调 劇場版](https://img9.doubanio.com/view/photo/m/public/p2667190810.webp)
-
-劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア!!!!!!!!!!
