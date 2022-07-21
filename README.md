@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Yeah! A lazy dog! That's me!<img align="right" src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" />
 <!--
@@ -28,11 +28,22 @@ Here are some ideas to get you started:
 
     Learning alone makes me feel lonely...This sounds like nonsense XD
     
+# My Things 🎈
+
+
 Well, again, that's me:
 
-[![Kilito's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightKilito&layout=compact" alt="Kilito's Top Langs" />
+</div>
 
-[![Kilito's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightKilito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://stats.justsong.cn/api/bilibili/?id=23042208" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=KnightKilito&cn=true" />
+    <img src="https://stats.justsong.cn/api/csdn?id=qq_38677092" />
+</div>
+
 
 A vegetable chicken~
 
