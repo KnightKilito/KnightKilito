@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Yeah! A lazy dog! That's me!
-
-![Kilito's Count](https://count.getloli.com/get/@KnightKilito?theme=asoul)
-<div><img src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" /></div>
+Yeah! A lazy dog! That's me!<img align="right" src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" />
 <!--
 **KnightKilito/KnightKilito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🔭 I’m currently working on a final project training ...
 
     I feel a little tired...
