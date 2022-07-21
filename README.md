@@ -49,7 +49,10 @@ Well, again, that's me:
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
         <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-        <img src="https://img.shields.io/badge/-MySQL-oringe?style=flat-square&logo=mysql" />
+        <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Git-9cf?style=flat-square&logo=git" />
+        <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/-Gitee-white?style=flat-square&logo=gitee&logoColor=red" />
     </span>
     </br></br>
     <span > 
@@ -76,7 +79,7 @@ Well, again, that's me:
 <div align="center">
 <!--     <img src="https://cdn.jsdelivr.net/gh/KnightKilito/KnightKilito/profile-3d-contrib/profile-night-rainbow.svg" />  -->
 </div>
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightKilito" /> </div>
 
 ## Social Media
 
