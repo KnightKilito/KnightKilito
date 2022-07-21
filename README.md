@@ -38,7 +38,7 @@ Well, again, that's me:
     <span>
         <img src="https://img.shields.io/badge/Windows-11-blue.svg?logo=MicroSoft&style=flat-square" />
         <img src="https://img.shields.io/badge/CentOS-8-blueviolet.svg?logo=CentOS&style=flat-square" />
-        <img src="https://img.shields.io/badge/VPS-AliYun-orange.svg?logo=aliyun&style=flat-square" />
+        <img src="https://img.shields.io/badge/VPS-AliYun-orange.svg?logo=taobao&style=flat-square" />
         <img src="https://img.shields.io/badge/HUAWEI-NOVA 9-ff69b4.svg?logo=HUAWEI&style=flat-square" />
         <img src="https://img.shields.io/badge/HUAWEI-MateBook 14-orange.svg?logo=HUAWEI&style=flat-square" />
         <img src="https://img.shields.io/badge/AMD-Assembled Myself-brightgreen.svg?logo=AMD&style=flat-square" />
