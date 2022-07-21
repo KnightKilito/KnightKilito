@@ -1,6 +1,9 @@
 # Hi there 👋
 
-Yeah! A lazy dog! That's me!<img align="right" src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" />
+Yeah! A lazy dog! That's me!
+<img align="right" src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" />
+<img align="right" src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" />
+<img align="right" src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" />
 <!--
 **KnightKilito/KnightKilito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +27,10 @@ Here are some ideas to get you started:
 
     I feel even more tired T^T
     
-🤔 I’m looking for help with a guy who can learn Java with me together
+🤔 I want someone who can learn Java with me together
 
-    Learning alone makes me feel lonely...This sounds like nonsense XD
+    Learning alone makes me feel lonely...
+    This sounds like nonsense XD
     
 # My Things 🎈
 
