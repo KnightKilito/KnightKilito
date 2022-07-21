@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Yeah! A lazy dog! That's me!
+
 ![Kilito's Count](https://count.getloli.com/get/@KnightKilito?theme=asoul)
+<div><img src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" /></div>
 <!--
 **KnightKilito/KnightKilito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,8 +31,6 @@ Here are some ideas to get you started:
     Learning alone makes me feel lonely...This sounds like nonsense XD
     
 Well, again, that's me:
-
-![Kilito's Count](https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h)
 
 [![Kilito's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
