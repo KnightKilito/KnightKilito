@@ -33,13 +33,16 @@ Here are some ideas to get you started:
 
 Well, again, that's me:
 
+<img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
+
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightKilito&layout=compact" alt="Kilito's Top Langs" />
+    <img src="https://stats.justsong.cn/api/bilibili/?id=23042208" />
+    
 </div>
 
 <div align="center">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=23042208" />
     <img src="https://stats.justsong.cn/api/leetcode?username=KnightKilito&cn=true" />
     <img src="https://stats.justsong.cn/api/csdn?id=qq_38677092" />
 </div>
