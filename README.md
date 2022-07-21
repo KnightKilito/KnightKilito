@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Well, again, that's me:
 
-## Platform & Tools
+## Platform & Tools 🛠️
 
 <div align="center">
     <span>
@@ -52,13 +52,21 @@ Well, again, that's me:
         <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/-Git-9cf?style=flat-square&logo=git" />
         <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" />
-        <img src="https://img.shields.io/badge/-Gitee-white?style=flat-square&logo=gitee&logoColor=red" />
+        <a href="https://gitee.com/KnightKilito">
+            <img src="https://img.shields.io/badge/-Gitee-white?style=flat-square&logo=gitee&logoColor=red" />
+        </a>
     </span>
     </br></br>
     <span > 
         <img src="https://img.shields.io/badge/IDE-Visual Studio Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" /> 
         <img src="https://img.shields.io/badge/IDE-IntelliJ IDEA-blueviolet?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff" /> 
         <img src="https://img.shields.io/badge/Browser-Chrome-yellow?style=flat-square&logo=google-chrome&logoColor=ffffff" /> 
+    </span>
+    </br></br>
+    <span >
+        <a href="https://moechun.fun/">
+            <img src="https://img.shields.io/badge/闪闪の小窝-My Blog-blue?style=flat-square&logo=kfc&logoColor=ffffff" />
+        </a>
     </span>
     </br></br>
     
@@ -68,7 +76,7 @@ Well, again, that's me:
 </div>
 
 
-## My Contributions
+## My Contributions 🍔
 
 <div align="center">    
     <img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
@@ -81,7 +89,7 @@ Well, again, that's me:
 </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightKilito" /> </div>
 
-## Social Media
+## Social Media 🏄‍♂️
 
 <div align="center">
     <img src="https://stats.justsong.cn/api/bilibili/?id=23042208" />
