@@ -30,31 +30,55 @@ Here are some ideas to get you started:
     
 # My Things 🎈
 
-
 Well, again, that's me:
 
-<img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
-
+## Platform & Tools
 
 <div align="center">
     <span>
         <img src="https://img.shields.io/badge/Windows-11-blue.svg?logo=MicroSoft&style=flat-square" />
         <img src="https://img.shields.io/badge/CentOS-8-blueviolet.svg?logo=CentOS&style=flat-square" />
+        <img src="https://img.shields.io/badge/VPS-AliYun-orange.svg?logo=aliyun&style=flat-square" />
         <img src="https://img.shields.io/badge/HUAWEI-NOVA 9-ff69b4.svg?logo=HUAWEI&style=flat-square" />
         <img src="https://img.shields.io/badge/HUAWEI-MateBook 14-orange.svg?logo=HUAWEI&style=flat-square" />
-        <img src="https://img.shields.io/badge/AMD-DIM-brightgreen.svg?logo=AMD&style=flat-square" />
+        <img src="https://img.shields.io/badge/AMD-Assembled Myself-brightgreen.svg?logo=AMD&style=flat-square" />
     </span>
     </br></br>
     <span > 
-        <img src="https://img.shields.io/badge/-Java-1572B6?style=flat-square&logo=Java" /> 
+        <img src="https://img.shields.io/badge/-Java-1572B6?style=flat-square&logo=Oracle" /> 
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
         <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-        
+        <img src="https://img.shields.io/badge/-MySQL-oringe?style=flat-square&logo=mysql" />
     </span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightKilito&layout=compact" alt="Kilito's Top Langs" />
+    </br></br>
+    <span > 
+        <img src="https://img.shields.io/badge/IDE-Visual Studio Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" /> 
+        <img src="https://img.shields.io/badge/IDE-IntelliJ IDEA-blueviolet?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff" /> 
+        <img src="https://img.shields.io/badge/Browser-Chrome-yellow?style=flat-square&logo=google-chrome&logoColor=ffffff" /> 
+    </span>
+    </br></br>
     
 </div>
+<div align="center">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightKilito&layout=compact" alt="Kilito's Top Langs" />
+</div>
+
+
+## My Contributions
+
+<div align="center">    
+    <img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
+</div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=KnightKilito&theme=github" /> 
+</div>
+<div align="center">
+<!--     <img src="https://cdn.jsdelivr.net/gh/KnightKilito/KnightKilito/profile-3d-contrib/profile-night-rainbow.svg" />  -->
+</div>
+
+
+## Social Media
 
 <div align="center">
     <img src="https://stats.justsong.cn/api/bilibili/?id=23042208" />
