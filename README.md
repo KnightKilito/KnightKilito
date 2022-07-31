@@ -55,9 +55,12 @@ Well, again, that's me:
         <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
         <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/-Git-9cf?style=flat-square&logo=git" />
-        <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github" />
         <a href="https://gitee.com/KnightKilito">
             <img src="https://img.shields.io/badge/-Gitee-white?style=flat-square&logo=gitee&logoColor=red" />
+        </a>
+        <a href="https://space.bilibili.com/23042208">
+            <img src="https://img.shields.io/badge/-Bilibili-pink?style=flat-square&logo=bilibili" />
         </a>
     </span>
     </br></br>
