@@ -110,6 +110,9 @@ Well, again, that's me:
     </a>
 </div>
 
+### My Blog 🎮
+
+[**闪闪の小窝**](https://moechun.fun)
 
 A vegetable chicken~
 <img align="right" src="https://api.moedog.org/count/@KnightKilito?theme=gelbooru-h" alt="@KnightKilito" />
