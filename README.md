@@ -42,7 +42,7 @@ Well, again, that's me:
     <span>
         <img src="https://img.shields.io/badge/Windows-11-blue.svg?logo=MicroSoft&style=flat-square" />
         <img src="https://img.shields.io/badge/CentOS-8-blueviolet.svg?logo=CentOS&style=flat-square" />
-        <img src="https://img.shields.io/badge/VPS-AliYun-orange.svg?logo=taobao&style=flat-square" />
+        <img src="https://img.shields.io/badge/VPS-AliYun-orange.svg?logo=alibabacloud&style=flat-square" />
         <img src="https://img.shields.io/badge/HUAWEI-NOVA 9-ff69b4.svg?logo=HUAWEI&style=flat-square" />
         <img src="https://img.shields.io/badge/HUAWEI-MateBook 14-orange.svg?logo=HUAWEI&style=flat-square" />
         <img src="https://img.shields.io/badge/AMD-Assembled Myself-brightgreen.svg?logo=AMD&style=flat-square" />
@@ -50,7 +50,7 @@ Well, again, that's me:
     </br></br>
     <span > 
         <img src="https://img.shields.io/badge/-Java-1572B6?style=flat-square&logo=Oracle" /> 
-        <img src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=VUE" /> 
+        <img src="https://img.shields.io/badge/-Vue-pink?style=flat-square&logo=vue.js" /> 
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
         <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
