@@ -1,7 +1,7 @@
 # Hi there 👋
 
 A lazy dog! 
-<img align="right" src="https://img.moechun.fun/bg%2Fkirito-github-300x200.png" />
+<img align="right" src="https://blog-source-cdn.moechun.fun/bg%2Fkirito-github-300x200.png" />
 That's me!
 
 <!--
