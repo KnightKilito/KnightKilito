@@ -43,7 +43,7 @@ Well, again, that's me:
         <img src="https://img.shields.io/badge/Windows-11-blue.svg?logo=MicroSoft&style=flat-square" />
         <img src="https://img.shields.io/badge/CentOS-8-blueviolet.svg?logo=CentOS&style=flat-square" />
         <img src="https://img.shields.io/badge/VPS-AliYun-orange.svg?logo=alibabacloud&style=flat-square" />
-        <img src="https://img.shields.io/badge/HUAWEI-NOVA 9-ff69b4.svg?logo=HUAWEI&style=flat-square" />
+        <img src="https://img.shields.io/badge/HUAWEI-PURA 70 PRO-ff69b4.svg?logo=HUAWEI&style=flat-square" />
         <img src="https://img.shields.io/badge/HUAWEI-MateBook 14-orange.svg?logo=HUAWEI&style=flat-square" />
         <img src="https://img.shields.io/badge/AMD-Assembled Myself-brightgreen.svg?logo=AMD&style=flat-square" />
     </span>
@@ -89,9 +89,9 @@ Well, again, that's me:
 <div align="center">    
     <img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
 </div>
-<div align="center">
+<!-- <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=KnightKilito&theme=github" /> 
-</div>
+</div> -->
 <div align="center">
 <!--     <img src="https://cdn.jsdelivr.net/gh/KnightKilito/KnightKilito/profile-3d-contrib/profile-night-rainbow.svg" />  -->
 </div>
