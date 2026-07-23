@@ -1,7 +1,7 @@
 # Hi there 👋
 
 A lazy dog! 
-<img align="right" src="https://blog-source-cdn.moechun.fun/bg%2Fkirito-github-300x200.png" />
+<img align="right" src="https://blog-source-cdn.moechun.fun/bg/kirito-github-300x200.png" />
 That's me!
 
 <!--
@@ -86,15 +86,19 @@ Well, again, that's me:
 
 ## My Contributions 🍔
 
-<div align="center">    
+<!-- <div align="center">    
     <img src="https://github-readme-stats.vercel.app/api?username=KnightKilito&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kilito's GitHub stats"/>
-</div>
-<!-- <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=KnightKilito&theme=github" /> 
 </div> -->
 <div align="center">
-<!--     <img src="https://cdn.jsdelivr.net/gh/KnightKilito/KnightKilito/profile-3d-contrib/profile-night-rainbow.svg" />  -->
+    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=KnightKilito&theme=github" />  -->
+    <img src="https://stats.justsong.cn/api/github?username=KnightKilito" /> 
+    
+    <!-- ![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=KnightKilito) -->
+    
 </div>
+<!-- <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/KnightKilito/KnightKilito/profile-3d-contrib/profile-night-rainbow.svg" /> 
+</div> -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightKilito" /> </div>
 
 ## Social Media 🏄‍♂️
@@ -106,9 +110,9 @@ Well, again, that's me:
     <a href="https://leetcode.cn/u/knightkilito/">
         <img src="https://stats.justsong.cn/api/leetcode?username=KnightKilito&cn=true" />
     </a>
-    <a href="https://blog.csdn.net/qq_38677092">
+    <!-- <a href="https://blog.csdn.net/qq_38677092">
         <img src="https://stats.justsong.cn/api/csdn?id=qq_38677092" />
-    </a>
+    </a> -->
 </div>
 
 ### My Blog 🎮
