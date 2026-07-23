@@ -80,7 +80,7 @@ Well, again, that's me:
     
 </div>
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightKilito&layout=compact" alt="Kilito's Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api?username=KnightKilito&layout=compact" alt="Kilito's Top Langs" />
 </div>
 
 
@@ -92,9 +92,6 @@ Well, again, that's me:
 <div align="center">
     <!-- <img src="https://activity-graph.herokuapp.com/graph?username=KnightKilito&theme=github" />  -->
     <img src="https://stats.justsong.cn/api/github?username=KnightKilito" /> 
-    
-    <!-- ![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=KnightKilito) -->
-    
 </div>
 <!-- <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/KnightKilito/KnightKilito/profile-3d-contrib/profile-night-rainbow.svg" /> 
